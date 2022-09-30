@@ -1,0 +1,7 @@
+platformName=Android
+platformVersion=10 QKQ1.191014.001
+deviceName=Redmi
+deviceId=629b80900706
+appPackage=com.flipkart.android
+appActivity=com.flipkart.android.activity.HomeFragmentHolderActivity
+url=http://localhost:4723/wd/hub
